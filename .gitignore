@@ -1,0 +1,12 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+/direccionamiento/__pycache__
+/metodos/__pycache__
+/migrations/__pycache__
+db.sqlite3
+media
+export.html
+/conexion/settings.py
